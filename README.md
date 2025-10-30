@@ -7,7 +7,7 @@
 A análise utiliza **dados da indústria agrícola** para investigar **emissões de carbono** e identificar **avanços ou retrocessos** no setor.  
 
 > 💡 **Nota:** O **Calbon** abrange todas as indústrias, mas o **único dataset completo disponível** foi o da **agricultura**.  
-> A entrega oficial é o arquivo **`analise.py`**, enquanto o **`analise.ipynb`** serve apenas como apoio visual — sendo uma **versão protótipo** e **menos completa**.
+> A entrega oficial é o arquivo **`analise.py`**, enquanto o **`analise.ipynb`** serve apenas como apoio visual, sendo uma **versão protótipo** e **menos completa**.
 
 ---
 

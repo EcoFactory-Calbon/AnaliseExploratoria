@@ -22,6 +22,7 @@ A análise utiliza **dados da indústria agrícola** para investigar **emissões
 | ⚡ **Boxplot** | Distribuição do **uso de energia em fazendas** por continente |
 | 🔋 **Gráfico de Dispersão 3** | Relação entre **uso de energia** e **emissões** |
 | 👥 **Gráfico de Dispersão 4** | Relação entre **população** e **emissões** |
+|🌏 **Gráfico de Dispersão 5**| Relação entre **temperatura média** e **emissões por continente**| 
 
 ---
 

@@ -48,7 +48,7 @@ Compara o **uso energético agrícola** entre continentes, avaliando **práticas
 ### 👥 População × Emissões  
 Explora como o **crescimento populacional** e o **nível de desenvolvimento econômico** influenciam as **emissões de CO₂**.
 
-> 📁 Todas as análises completas podem ser encontradas em **`analise.py`**
+> 📁 Todas as análises completas e descrições detalhadas podem ser encontradas em **`analise.py`**
 
 ---
 

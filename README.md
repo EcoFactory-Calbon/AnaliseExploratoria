@@ -55,7 +55,6 @@ Explora como o **crescimento populacional** e o **nível de desenvolvimento econ
 ## ⚖️ Licença
 
 Este projeto está sob a licença [**MIT**](https://choosealicense.com/licenses/mit/).  
-Sinta-se livre para **usar, estudar e modificar** este código com os devidos créditos. 💚
 
 ---
 

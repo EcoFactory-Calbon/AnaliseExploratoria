@@ -36,6 +36,9 @@ Permite identificar **padrões, aumentos e reduções** nas emissões ao longo d
 ### 🌡️ Temperatura Média × Ano  
 Mostra **mudanças climáticas** sem considerar outras variáveis, evidenciando **tendências de aquecimento global**.
 
+### 🌏 Temperatura x Emissçoes por Continente
+Mostra a evolução da **temperatura média** baseado nas **emissões por continente**
+
 ### 🚜 Transporte de Comida × Emissões  
 Relaciona **emissões de CO₂** com a **logística agroalimentar**, revelando como o transporte afeta o clima global.
 
